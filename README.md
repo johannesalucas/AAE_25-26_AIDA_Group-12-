@@ -4,6 +4,6 @@ The team consists of 6 people:
 - Josie (Technical Lead)
 - Peter
 - Alex
-- Paul (Project Lead)
-- Matthew
+- Matthew (Project Lead)
+- Paul
 - Lavisse
